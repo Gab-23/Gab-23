@@ -19,5 +19,5 @@
 
 ## 📫 Get in Touch
 
-- 📧 Email: [gabriele.oliveto@mail.polimi.it](mailto:gabriele.oliveto@mail.polimi.it)
+- 📧 Email: [gabriele.oliveto@ieo.it](mailto:gabriele.oliveto@ieo.it)
 - 💼 Linkedin: [www.linkedin.com/in/gabriele-oliveto](https://www.linkedin.com/in/gabriele-oliveto/)

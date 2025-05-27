@@ -6,9 +6,9 @@
  My primary interests lie in **Epigenomics** and various **omics** fields.
 
 ## 🔬 About Me
-
 - 🎓 Bachelor's degree in Biological Sciences
 - 📚 Currently attending Master's student in Bioinformatics for Computational Genomics
+- 🎗️ Master Student at Istituto Europeo di Oncologia in SchaeferLab 
 - 🌱 Interested in **Epigenomics** and **Machine Learning**
 - 🧬 I enjoy working on projects that bridge **biology** and **data science**
 
